@@ -54,4 +54,4 @@ Entity Models deals with how the tabels in the database should look like. ViewMo
 ### TASK
 On the Students Details page you should be able to show the Enrollments of the student. It should look something like this:    
 
-<img src="https://github.com/keacore/07_RepositoriesViewModels/blob/master/Materials/img/ViewModel.png" width="600">
+<img src="https://github.com/ElectiveAspNet/09_deployment/blob/master/img/Screen%20Shot%202017-10-28%20at%2001.53.12.png" width="600">
