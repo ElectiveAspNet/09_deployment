@@ -9,7 +9,7 @@ A good and free alternative is [AppHarbor](https://apphb.com)
 #### Visual Studio
 * Right click your solution and choose **publish**
 * choose to publish to your file system
-* in you git bash or terminal browse to the **bin\Release\PublishOutput** folder
+* in your git bash or terminal browse to the **bin\Release\PublishOutput** folder
 * make it a local git repository ```` git init ````    
 
 #### Deploy Application to AppHarbor
