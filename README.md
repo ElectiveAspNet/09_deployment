@@ -1,17 +1,8 @@
 # 09 Deployment
 Agenda dag 9 d. 30-10-2017
 
-## Azure credentials
-* [Dreamspark](https://e5.onthehub.com/WebStore/Welcome.aspx?ws=3c3e9854-9e72-e011-971f-0030487d8897&vsro=8)
-* Log-in
-* search for Azure
-* scroll to "Microsoft Azure for Students"
-
-Der kommer herefter en "lidt" lang process med verificering af dig som studerende osv. men det er beskrevet hvordan det forgård.
-
 ## Web Publish Options
 https://docs.microsoft.com/en-us/visualstudio/ide/not-in-toc/web-publish-options
-
 
 ## Host
 * [AppHarbor](https://apphb.com)
