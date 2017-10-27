@@ -50,3 +50,8 @@ We will do it together later but first you should gie it a try.
 Entity Models deals with how the tabels in the database should look like. ViewModels deals with the data shown in the views.
 
 <img src="https://github.com/keacore/07_RepositoriesViewModels/blob/master/Materials/img/ViewModel.png" width="600">
+
+### TASK
+On the Students Details page you should be able to show the Enrollments of the student. It should look something like this:    
+
+<img src="https://github.com/keacore/07_RepositoriesViewModels/blob/master/Materials/img/ViewModel.png" width="600">
