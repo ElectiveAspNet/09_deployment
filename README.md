@@ -43,4 +43,10 @@ To deploy your first app, do the following:
 
 
 ## View Models
+In order to show not only a Student or an Enrollment or a Course, but also all related data we need to use the navigation properties from our Entity Models.
 
+We will do it together later but first you should gie it a try.
+
+Entity Models deals with how the tabels in the database should look like. ViewModels deals with the data shown in the views.
+
+<img src="https://github.com/keacore/07_RepositoriesViewModels/blob/master/Materials/img/ViewModel.png" width="400">
