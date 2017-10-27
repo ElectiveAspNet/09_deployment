@@ -23,6 +23,23 @@ To deploy your first app, do the following:
 1. Add the remote repository like this ```` git remote add appharbor MY_REPOSITORY_URL ````   
 1. Deploy using ```` git push appharbor master  ````   
 
+#### Database publish
+* appharbor.com/applications/NAME_OF_YOUR_APP
+* add-ons
+* in categories choose **Database**
+* choose the free SQL server called **Yocto**
+* When installed click **Go to SQL Server** link
+* You will need the Hostname, username and password when you connect from Visual Studio
+
+##### Visual Studio
+* Open **SQL Server Object Explorer**
+* Right click **SQL Server** and choose **Add SQL Server**
+* Under Authendication choose ** SQL Server Authendication **
+* copy and paste Hostname, username and password
+
+###### ConnectionString
+* Change the connectionstring in your **appsettings.json** file to the one you see on appharbor.
+
 
 
 ## View Models
