@@ -7,6 +7,7 @@ You can publish your ASP.NET Core MVC sites to many hosts. The sort of "Default"
 A good and free alternative is [AppHarbor](https://apphb.com)
 
 #### Visual Studio
+* Create a new MVC Project
 * Right click your solution and choose **publish**
 * choose to publish to your file system
 * in your git bash or terminal browse to the **bin\Release\PublishOutput** folder
