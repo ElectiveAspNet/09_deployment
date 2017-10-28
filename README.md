@@ -1,4 +1,4 @@
-_2# 09 Deployment
+# 09 Deployment
 Agenda dag 9 d. 30-10-2017
 
 ## Web Publish
