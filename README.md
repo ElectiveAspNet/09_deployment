@@ -59,7 +59,7 @@ On the Students Details page you should be able to show the Enrollments of the s
 
 <img src="https://github.com/ElectiveAspNet/09_deployment/blob/master/img/Udklip_2.PNG" width="600">    
 
-You will find these links helpful in solvingthe task:
+You will find these links helpful in solving the task:
 * [Querying Data](https://docs.microsoft.com/en-us/ef/core/querying/)
 * [Basic Queries](https://docs.microsoft.com/en-us/ef/core/querying/basic)
 * [Loading Related Data](https://docs.microsoft.com/en-us/ef/core/querying/related-data)
