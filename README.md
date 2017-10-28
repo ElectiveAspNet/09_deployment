@@ -1,4 +1,4 @@
-# 09 Deployment
+_2# 09 Deployment
 Agenda dag 9 d. 30-10-2017
 
 ## Web Publish
@@ -56,4 +56,4 @@ Entity Models deals with how the tabels in the database should look like. ViewMo
 ### TASK
 On the Students Details page you should be able to show the Enrollments of the student. It should look something like this:    
 
-<img src="https://github.com/ElectiveAspNet/09_deployment/blob/master/img/Udklip.PNG" width="600">
+<img src="https://github.com/ElectiveAspNet/09_deployment/blob/master/img/Udklip_2.PNG" width="600">
