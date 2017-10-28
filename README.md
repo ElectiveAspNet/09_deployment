@@ -47,8 +47,9 @@ This is based on the project we worked on earlier this semester. [StudentAdmin](
 
 In order to show not only a Student or an Enrollment or a Course, but also all related data we need to use the navigation properties from our Entity Models.
 
-We will do it together later but first you should gie it a try.
+We will do it together later but first you should give it a try.
 
+###Entity Models vs View Models
 Entity Models deals with how the tabels in the database should look like. ViewModels deals with the data shown in the views.
 
 <img src="https://github.com/keacore/07_RepositoriesViewModels/blob/master/Materials/img/ViewModel.png" width="600">
@@ -56,4 +57,12 @@ Entity Models deals with how the tabels in the database should look like. ViewMo
 ### TASK
 On the Students Details page you should be able to show the Enrollments of the student. It should look something like this:    
 
-<img src="https://github.com/ElectiveAspNet/09_deployment/blob/master/img/Udklip_2.PNG" width="600">
+<img src="https://github.com/ElectiveAspNet/09_deployment/blob/master/img/Udklip_2.PNG" width="600">    
+
+You will find these links helpful in solvingthe task:
+* [Querying Data](https://docs.microsoft.com/en-us/ef/core/querying/)
+* [Basic Queries](https://docs.microsoft.com/en-us/ef/core/querying/basic)
+* [Loading Related Data](https://docs.microsoft.com/en-us/ef/core/querying/related-data)
+
+
+
