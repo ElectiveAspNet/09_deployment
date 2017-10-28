@@ -43,6 +43,8 @@ To deploy your first app, do the following:
 
 
 ## View Models
+This is based on the project we worked on earlier this semester. [StudentAdmin](https://github.com/ElectiveAspNet/UniversityAdmin).     
+
 In order to show not only a Student or an Enrollment or a Course, but also all related data we need to use the navigation properties from our Entity Models.
 
 We will do it together later but first you should gie it a try.
