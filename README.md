@@ -58,11 +58,11 @@ Entity Models deals with how the tabels in the database should look like. ViewMo
 ### TASK
 On the Students Details page you should be able to show the Enrollments of the student. It should look something like this:    
 
-<img src="https://github.com/ElectiveAspNet/09_deployment/blob/master/img/Udklip_2.PNG" witdh="600px">    
+<img src="https://github.com/ElectiveAspNet/09_deployment/blob/master/img/Udklip_2.PNG" witdh="500px">    
 
 If you managed that you will also be able to do this:
 
-<img src="https://github.com/ElectiveAspNet/09_deployment/blob/master/img/Udklip_3.PNG" witdh="600px">    
+<img src="https://github.com/ElectiveAspNet/09_deployment/blob/master/img/Udklip_3.PNG" witdh="500px">    
 
 You will find these links helpful in solving the task:
 * [Querying Data](https://docs.microsoft.com/en-us/ef/core/querying/)
