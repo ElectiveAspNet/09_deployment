@@ -3,7 +3,7 @@ Agenda dag 9 d. 30-10-2017
 
 **timer idag**     
 9:15 - 10:00    
-10:15 - 13:00 (pauser ind i mellem)
+10:15 - 13:00
 
 
 ## STU
