@@ -1,6 +1,14 @@
 # 09 Deployment
 Agenda dag 9 d. 30-10-2017
 
+** timer idag **
+9:15 - 10:00
+10:15 - 13:00 (pauser ind i mellem)
+
+
+## STU
+* 15 minutter til at udfylde 
+
 ## Web Publish
 You can publish your ASP.NET Core MVC sites to many hosts. The sort of "Default" is "Azura". The only problem with that is that you are never totally sure when or what you are going to pay for what you are doing.    
 
