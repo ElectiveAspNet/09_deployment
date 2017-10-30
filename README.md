@@ -10,9 +10,9 @@ Agenda dag 9 d. 30-10-2017
 * 15 minutter til at udfylde 
 
 ## Web Publish
-You can publish your ASP.NET Core MVC sites to many hosts. The sort of "Default" is "Azura". The only problem with that is that you are never totally sure when or what you are going to pay for what you are doing.    
+You can publish your ASP.NET Core MVC sites to many hosts. The sort of "Default" is "[Azura](https://azure.microsoft.com/da-dk/)". The only problem with that is that you are never totally sure when or what you are going to pay for what you are doing. But you should have free access for a year through dreamspark, if you want to try it out.   
 
-A good and free alternative is [AppHarbor](https://apphb.com)
+A good and free alternative is [AppHarbor](https://apphb.com), we will use that.
 
 #### Visual Studio
 * Create a new MVC Project
